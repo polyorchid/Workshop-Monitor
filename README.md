@@ -36,7 +36,7 @@ A Discord bot that monitors Steam Workshop mods for updates and sends notificati
 
 ```bash
 # Clone or download this repository
-git clone https://github.com/yourusername/steam-workshop-monitor.git
+git clone https://github.com/polyorchid/Workshop-Monitor
 cd steam-workshop-monitor
 
 # Install dependencies
