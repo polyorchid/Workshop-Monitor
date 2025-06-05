@@ -1,4 +1,3 @@
-# Workshop-Monitor
 # Steam Workshop Monitor
 
 A Discord bot that monitors Steam Workshop mods for updates and sends notifications to your Discord channel when mods are updated.
