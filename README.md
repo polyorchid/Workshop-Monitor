@@ -141,7 +141,3 @@ pm2 save
 
 - **Issues**: https://github.com/polyorchid/Workshop-Monitor/issues
 - **Credits**: Created by Foostus
-
-## License
-
-MIT License - see LICENSE file for details.
